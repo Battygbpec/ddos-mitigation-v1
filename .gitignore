@@ -2,8 +2,5 @@
 __pycache__/
 *.pyc
 
-# Logs
-logs/
-
 # Environment variables - DO NOT COMMIT
 .env
